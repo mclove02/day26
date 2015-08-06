@@ -1,0 +1,10 @@
+#whole {
+    background-image: url("designwork.jpg");
+    height: 7500px;
+    width: 100%;
+    background-size: contain;
+    margin: 0 auto;
+    padding: 0;
+    left: 0;
+    top: 0;
+}
